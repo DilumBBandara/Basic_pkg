@@ -15,4 +15,4 @@ echo "....................."
 echo "....................."
 echo "....................."
 echo "....................."
-bash basic.sh
+mkdir More;mv basic.sh More;mv basic2.sh More;cd More;bash basic.sh
