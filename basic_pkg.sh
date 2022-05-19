@@ -1,18 +1,10 @@
-r="\e[31;1m" # red
-g="\e[32;1m" # green
-y="\e[33;1m" # yellow
-b="\e[34;1m" # blue
-p="\e[35;1m" #purple
-n="\e[36;1m" # i don't know this color name
-w="\e[0;1m" # white
-
+#Author:D.M.D.U.Bandara
+#ToolName:Basic_pkg
+#Language:Shell
+#Version:1.1
+#GitHub:https://github.com/DilumBBandara
 
 clear;figlet Basic_pkg |lolcat
 echo "Installing..........."
 sleep 4
-echo "....................."
-echo "....................."
-echo "....................."
-echo "....................."
-echo "....................."
 mkdir IMG;mv IMG_Basic.jpg IMG;bash basic.sh
