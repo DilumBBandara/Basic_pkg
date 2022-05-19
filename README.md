@@ -1,8 +1,8 @@
-#Author:D.M.D.U.Bandara
-#ToolName:Basic_pkg
-#Language:Shell
-#Version:1.2
-#GitHub:https://github.com/DilumBBandara
+# Author: D.M.D.U.Bandara
+# ToolName: Basic_pkg
+# Language: Shell
+# Version: 1.2
+# GitHub: https://github.com/DilumBBandara
 
 
 # Installation Termux
