@@ -1,5 +1,10 @@
 # Version: 1.2
-
+<html>
+<body><hr>
+  <br><img src="IMG_Basic.jpg">
+<hr>
+</body>
+</html>
 
 # Installation Termux
      apt update && apt upgrade -y
@@ -9,9 +14,3 @@
      cd Basic_pkg
      bash basic_pkg.sh
 
-<html>
-<body><hr>
-  <br><img src="IMG_Basic.jpg">
-<hr>
-</body>
-</html>
