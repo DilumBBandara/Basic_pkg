@@ -8,3 +8,10 @@
      git clone https://github.com/DilumBBandara/Basic_pkg.git
      cd Basic_pkg
      bash basic_pkg.sh
+
+<html>
+<body><hr>
+  <br><img src="IMG_Basic.jpg">
+<hr>
+</body>
+</html>
